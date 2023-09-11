@@ -13,14 +13,14 @@ This repository contains a list of assignments completed during the MERN Stack C
 
 # CSS Task 1: https://abhisheq0.github.io/CSS-Task-1/
 
-# CSS Task 1: https://abhisheq0.github.io/CSS-Task-2/
+# CSS Task 2: https://abhisheq0.github.io/CSS-Task-2/
 
-# CSS Task 1: https://abhisheq0.github.io/CSS-Task-3/
+# CSS Task 3: https://abhisheq0.github.io/CSS-Task-3/
 
-# CSS Task 1: https://abhisheq0.github.io/CSS-Task-4/
+# CSS Task 4: https://abhisheq0.github.io/CSS-Task-4/
 
-# CSS Task 1: https://abhisheq0.github.io/CSS-Task-5/
+# CSS Task 5: https://abhisheq0.github.io/CSS-Task-5/
 
-# CSS Task 1: https://abhisheq0.github.io/CSS-Task-6/
+# CSS Task 6: https://abhisheq0.github.io/CSS-Task-6/
 
-# CSS Task 1: https://abhisheq0.github.io/CSS-Task-7/
+# CSS Task 7: https://abhisheq0.github.io/CSS-Task-7/
